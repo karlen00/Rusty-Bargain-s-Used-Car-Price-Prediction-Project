@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Rusty Bargain is a company specializing in buying and selling used cars. They are developing an application to attract new buyers by providing quick estimates of the market value of their cars. You have access to historical data, vehicle technical specifications, vehicle model versions, and vehicle prices. Your task is to create a model that can determine the market value of a car.
+Rusty Bargain is a company specializing in buying and selling used cars. They are developing an application to attract new buyers by providing quick estimates of the market value of their cars. You have access to historical data, vehicle technical specifications, vehicle model versions, and vehicle prices. The task is to create a model that can determine the market value of a car.
 
 Rusty Bargain is interested in:
 - Prediction quality
